@@ -1,7 +1,6 @@
 🏥 Sistema de Agendamento de Consultas - Clínica Médica
 
-📝 Descrição
-Este é um sistema de agendamento de consultas médicas desenvolvido para gerenciar as consultas em uma clínica. Ele permite o agendamento, alteração, exclusão e visualização de consultas. O sistema também permite que o usuário consulte médicos e especialidades disponíveis, facilitando o agendamento de consultas com médicos de várias especialidades (Cardiologia, Psicologia, Neurologia, Nutrição, Ortopedia).
+📝 Este é um sistema de agendamento de consultas médicas desenvolvido para gerenciar as consultas em uma clínica. Ele permite o agendamento, alteração, exclusão e visualização de consultas. O sistema também permite que o usuário consulte médicos e especialidades disponíveis, facilitando o agendamento de consultas com médicos de várias especialidades (Cardiologia, Psicologia, Neurologia, Nutrição, Ortopedia).
 
 Funcionalidades Principais:
 Agendamento de Consultas: Permite que os pacientes agendem consultas com médicos de diversas especialidades, com controle de horários disponíveis e reservados.
