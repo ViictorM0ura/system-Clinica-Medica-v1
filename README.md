@@ -1,4 +1,4 @@
-🏥 Sistema de Agendamento de Consultas - Clínica Médica
+🏥 Sistema de Agendamento de Consultas - Clínica Médica V1
 
 📝 Este é um sistema de agendamento de consultas médicas desenvolvido para gerenciar as consultas em uma clínica. Ele permite o agendamento, alteração, exclusão e visualização de consultas. O sistema também permite que o usuário consulte médicos e especialidades disponíveis, facilitando o agendamento de consultas com médicos de várias especialidades (Cardiologia, Psicologia, Neurologia, Nutrição, Ortopedia).
 
